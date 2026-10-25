@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Halaman Web Pertama Saya</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background: #007bff;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            border-radius: 5px;
+        }
+        main {
+            margin-top: 20px;
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Selamat Datang di Website Saya!</h1>
+        <p>Belajar HTML itu seru dan mudah.</p>
+    </header>
+
+    <main>
+        <h2>Tentang Halaman Ini</h2>
+        <p>Ini adalah contoh struktur dasar halaman web menggunakan HTML dan sedikit CSS untuk mempercantik tampilannya.</p>
+        
+        <h3>Fitur Utama:</h3>
+        <ul>
+            <li>Struktur kode yang rapi dan standar.</li>
+            <li>Desain responsif sederhana.</li>
+            <li>Mudah disesuaikan dengan kebutuhan Anda.</li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Dibuat dengan Bantuan AI.</p>
+    </footer>
+
+</body>
+</html>
